@@ -1,4 +1,4 @@
-https://docs.microsoft.com/en-za/azure/devops/pipelines/create-first-pipeline?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fget-started%2Fbreadcrumb%2Ftoc.json&view=azure-devops&tabs=java%2Cbrowser%2Ctfs-2018-2
+[![Build Status](https://dev.azure.com/rafeeasaib0748/Azure%20DevOps%20Test%202/_apis/build/status/Rafeea1.pipelines-java?branchName=master)](https://dev.azure.com/rafeeasaib0748/Azure%20DevOps%20Test%202/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
